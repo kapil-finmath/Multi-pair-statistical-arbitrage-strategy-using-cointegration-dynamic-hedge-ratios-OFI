@@ -217,20 +217,9 @@ project/
 └── README.md
 ```
 
----
 
-## Technologies Used
 
-* Python
-* NumPy
-* Pandas
-* Statsmodels
-* SciPy
-* Matplotlib
-* PyKalman
-* yFinance
 
----
 
 ## Future Enhancements
 
